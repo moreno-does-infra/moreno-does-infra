@@ -10,7 +10,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-![Python](https://img.shields.io/badge/-csharp-333333?style=flat&logo=csharp)
+![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
 ![CSharp](https://img.shields.io/badge/-csharp-333333?style=flat&logo=csharp)
 - 🌐 &nbsp;
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
